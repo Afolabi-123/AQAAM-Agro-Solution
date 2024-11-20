@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text-center{
+    color: silver;
+    display: block;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.heeading{
+    color: silver;
+}
+.btn1{
+    width: 180px;
+    border-radius: 7px ;
+    border: 10px;
+    background: silver;
+
+}
+input{
+
+    display: inline-block;
+}   
+.fa-house{
+    color: green;
+    display: none;
+    text-decoration:none ;
+}
+body{
+    background-image: url("sing.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.radio{
+    
+}
